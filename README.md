@@ -1,4 +1,4 @@
-### Hey! :sparkles:
+# Olá! :sparkles:
 
  Me chamo Beatriz Lira, tenho 17 anos e estou me aprofundando no desenvolvimento web! 
  
