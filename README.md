@@ -15,7 +15,7 @@ Atualmente trabalho como desenvolvedora front-end, utilizando ReactJS, styled-co
 - HTML (avançado)
 - CSS (avançado)
 - JAVASCRIPT (avançado)
-- REACT.JS (intermediário)
+- REACT.JS (intermediário-avançado)
 - STYLED-COMPONENTS (intermediário)
 - JQuery (básico)
 - GIT (intermediário)
