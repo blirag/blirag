@@ -1,6 +1,6 @@
 # Olá! :sparkles:
 
- Me chamo Beatriz Lira, sou de SP e tenho 18 anos. Comecei a me interessar por programação no final de 2018, no início de 2019 ingressei em um curso técnico de Desenvolvimento de Sistemas e o conclui no meio de 2020. Estou me especializando no desenvolvimento web, principalmente no front-end e cursando a graduação em Análise e Desenvolvimento de Sistemas.
+ Me chamo Beatriz Lira, sou de SP e tenho 19 anos. Comecei a me interessar por programação no final de 2018, no início de 2019 ingressei em um curso técnico de Desenvolvimento de Sistemas e o conclui no meio de 2020. Estou me especializando na área de front-end e cursando a graduação em Análise e Desenvolvimento de Sistemas.
 Atualmente trabalho como desenvolvedora front-end, utilizando ReactJS, styled-components e outras tecnologias.
  
 [![instagram](https://img.shields.io/badge/bealirag-%23000000?style=for-the-badge&logo=instagram)](https://www.instagram.com/bealirag) 
