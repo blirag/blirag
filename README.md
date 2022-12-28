@@ -4,7 +4,7 @@
  
  Possuo conhecimento em diversas tecnologias, como JavaScript, TypeScript, ReactJS, GraphQL, API Rest, HTML, CSS, Styled-components, Git e Node.js, PHP. Além disso, possuo conhecimentos básicos de SQL, Docker, MySQL e MongoDB.  
  
-Atualmente trabalho como desenvolvedora front-end júnior no Grupo Meza Tecnologias LTDA., e estou no penúltimo semestre da minha graduação em Análise e Desenvolvimento de Sistemas.
+Atualmente trabalho como desenvolvedora front-end júnior no Grupo Meza Tecnologias Ltda., e estou no penúltimo semestre da minha graduação em Análise e Desenvolvimento de Sistemas.
  
 
 [![linkedin](https://img.shields.io/badge/beatrizliragonzaga-%23000000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/beatrizliragonzaga)
